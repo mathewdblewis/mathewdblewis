@@ -9,7 +9,7 @@ Software engineer with over two years of experience between in software developm
 Sept. 2016 - Apr. 2021:  
 University of Victoria, British Columbia Canada  
 Bachelor of Science, Honours in Math and Computer Science  
-Sept 2021 - Today:  
+Sept 2021 - Present:  
 Working on masters in mathematics at University of Victoria  
 
 **Experience:**  
@@ -23,7 +23,8 @@ Python, NumPy, flask, AWS (elastic beanstock), Java, Javascript, nodeJS, C/C++, 
 **Research:**  
 Jan. 2019 - Dec. 2019:  
 Sum of squares optimization and its application to non linear ODEs (Funded by the Canadian government via NSERC USRA grant) Supervised by Dr. David Goluskin  
-Occupation:  
+
+**Occupation:**  
 Summer 2018: Institute of Ocean Sciences (Software developer)  
 Summer 2019: Maximus Canada (Software developer)  
 
