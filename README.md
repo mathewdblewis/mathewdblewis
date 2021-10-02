@@ -32,6 +32,7 @@ Summer 2019: Maximus Canada (Software developer)
 
 
 
+<img width="553" alt="pic" src="https://user-images.githubusercontent.com/40349774/135730773-abc71c8f-cc24-49d0-ac2f-5215ec449916.png">
 
 
 
