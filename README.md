@@ -2,7 +2,7 @@ Mathew Lewis
 email: mathewdblewis at protonmail dot com  
 
 **Summary:**  
-Software engineer with over two years of experience between in software development as both a junior programmer and research assistant. Predominantly worked in python, C/C++, matlab and unix systems.
+Software engineer with over two years of experience in software development as both a junior programmer and research assistant. Predominantly worked in python, C/C++, matlab and unix systems.
 
 **Education:**  
 Sept. 2016 - Apr. 2021:  
