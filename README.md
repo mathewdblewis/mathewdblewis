@@ -1,6 +1,5 @@
 Mathew Lewis  
-email: mathewdblewis@protonmail.com  
-Phone: 250 634 3682  
+email: mathewdblewis at protonmail dot com  
 
 **Summary:**  
 Software engineer with over two years of experience between in software development as both a junior programmer and research assistant. Predominantly worked in python, C/C++, matlab and unix systems.
