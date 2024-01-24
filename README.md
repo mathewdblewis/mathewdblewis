@@ -31,7 +31,7 @@ Summer 2019: Maximus Canada (Software developer)
 
 
 
-<img width="553" alt="pic" src="https://raw.githubusercontent.com/mathewdblewis/mathewdblewis/main/meCrop.jpeg">
+<img width="553" alt="pic" src="https://raw.githubusercontent.com/mathewdblewis/mathewdblewis/main/meCrop.jpg">
 
 
 
